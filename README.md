@@ -1,7 +1,7 @@
 # RVCDet: Rethinking Voxelization and Classification for 3D Object Detection
-## NEWS:
-- I will update this repository after publishing the paper.
-## Installation:
+## NEWS :boom::
+- I will update this repository after publishing the paper :smiley: 
+## Installation :hammer_and_wrench::
 ### After cloning the repository:
 ```bash
 cd path/to/RVCDet # specify the correct path here
