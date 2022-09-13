@@ -1,4 +1,4 @@
-# RVCDet: Rethinking Voxelization and Classification for 3D Object Detection
+# Official Pytorch implementation for the paper: "RVCDet: Rethinking Voxelization and Classification for 3D Object Detection" [Accepted in ICONIP-2022]
 ## NEWS :boom::
 - I will update this repository after publishing the paper :smiley: 
 ## Installation :hammer_and_wrench::
