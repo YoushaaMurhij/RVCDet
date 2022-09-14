@@ -151,6 +151,7 @@ python tools/dist_test.py \
 ```
 
 ## Contact
-Questions and suggestions are welcome!
-Youshaa Murhij yosha[dot]morheg[at]phystech[dot]edu
-Dmitry Yudin yudin[dot]da[at]mipt[dot]ru
+Questions and suggestions are welcome! 
+
+Youshaa Murhij [yosha[dot]morheg[at]phystech[dot]edu](mailto:) <br>
+Dmitry Yudin [yudin[dot]da[at]mipt[dot]ru](mailto:) 
