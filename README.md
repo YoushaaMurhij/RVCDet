@@ -28,4 +28,5 @@ RVCDet is released under MIT license (see [LICENSE](LICENSE)). It is developed b
 Questions and suggestions are welcome! 
 
 Youshaa Murhij [yosha[dot]morheg[at]phystech[dot]edu](mailto:) <br>
+Alexander Golodkov [golodkov[dot]ao[at]phystech[dot]edu](mailto:) <br>
 Dmitry Yudin [yudin[dot]da[at]mipt[dot]ru](mailto:) 
