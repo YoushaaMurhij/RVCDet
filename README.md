@@ -1,6 +1,11 @@
 # Official Pytorch implementation for the paper: "RVCDet: Rethinking Voxelization and Classification for 3D Object Detection" [Accepted in ICONIP-2022]
 ## NEWS :boom::
-- I will update this repository after publishing the paper :smiley: 
+- RVCDet is accepeted at ICONIP 2022 :smiley: 
+
+## Abstract:
+The main challenge in 3D object detection from LiDAR point clouds is achieving real-time performance without affecting the reliability of the network. In other words, the detecting network must be enough confident about its predictions.
+In this paper, we present a solution to improve network inference speed and precision at the same time by implementing a fast dynamic voxelizer that works on fast pillar-based models in the same way a voxelizer works on slow voxel-based models. In addition, we propose a lightweight detection sub-head model for classifying predicted objects and filter out false detected objects that significantly improves model precision in a negligible time and computing cost.
+
 ## Installation :hammer_and_wrench::
 ### After cloning the repository:
 ```bash
@@ -145,3 +150,7 @@ python tools/dist_test.py \
         --testset --gpus 1 --classification
 ```
 
+## Contact
+Questions and suggestions are welcome!
+Youshaa Murhij yosha[dot]morheg[at]phystech[dot]edu
+Dmitry Yudin yudin[dot]da[at]mipt[dot]ru
