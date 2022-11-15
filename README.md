@@ -4,8 +4,8 @@
 ### RVCDet pipeline:
 <img src="./assets/pipe.png" alt="drawing" width="800"/>
 
-## NEWS: :boom::
-- RVCDet is accepeted at ICONIP 2022 :smiley: 
+## NEWS: :boom:
+- RVCDet is accepeted at ICONIP 2022 :smiley:
 
 ## Abstract:
 The main challenge in 3D object detection from LiDAR point clouds is achieving real-time performance without affecting the reliability of the network. In other words, the detecting network must be enough confident about its predictions.
