@@ -5,7 +5,6 @@
 <img src="./assets/pipe.png" alt="drawing" width="800"/>
 
 ### RVCDet Demo:
-![watch the demo](https://youtu.be/gJ5l_bnP3Dc)
 [![Watch the video](https://img.youtube.com/vi/gJ5l_bnP3Dc/maxresdefault.jpg)](https://youtu.be/gJ5l_bnP3Dc)
 
 ## NEWS: :boom:
