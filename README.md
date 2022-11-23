@@ -7,9 +7,9 @@
 ### RVCDet Demo:
 [![Watch the video](https://img.youtube.com/vi/gJ5l_bnP3Dc/maxresdefault.jpg)](https://youtu.be/gJ5l_bnP3Dc)
 
-## NEWS: :boom:
-[23-11-2022] RVCDet [presentation](https://www.youtube.com/watch?v=rYe0wzTdmt4) at The 29th International Conference on Neural Information Processing (ICONIP 2022). <br>
-[13-09-2022] RVCDet is accepeted at [ICONIP 2022](https://iconip2022.apnns.org/) :smiley: <br>
+## NEWS:
+[23-11-2022] RVCDet [presentation](https://www.youtube.com/watch?v=rYe0wzTdmt4) at The 29th International Conference on Neural Information Processing. <br>
+[13-09-2022] RVCDet is accepeted at [ICONIP 2022](https://iconip2022.apnns.org/) <br>
 
 ## Abstract:
 The main challenge in 3D object detection from LiDAR point clouds is achieving real-time performance without affecting the reliability of the network. In other words, the detecting network must be enough confident about its predictions.
