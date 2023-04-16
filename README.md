@@ -1,4 +1,4 @@
-# Official Pytorch implementation for the paper: "RVCDet: Rethinking Voxelization and Classification for 3D Object Detection" [Accepted in ICONIP-2022] <br>
+# Official Pytorch implementation for the paper: "RVCDet: Rethinking Voxelization and Classification for 3D Object Detection" [ICONIP-2022] <br>
 ![workflow](https://github.com/YoushaaMurhij/RVCDet/actions/workflows/main.yml/badge.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=YoushaaMurhij/RVCDet)
 
 ### RVCDet pipeline:
