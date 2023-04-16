@@ -8,6 +8,7 @@
 [![Watch the video](https://img.youtube.com/vi/gJ5l_bnP3Dc/maxresdefault.jpg)](https://youtu.be/gJ5l_bnP3Dc)
 
 ## NEWS:
+[14-04-2023] RVCDet [paper](https://link.springer.com/chapter/10.1007/978-981-99-1645-0_39) is available on Springer. <br>
 [23-11-2022] RVCDet [presentation](https://www.youtube.com/watch?v=rYe0wzTdmt4) at The 29th International Conference on Neural Information Processing. <br>
 [13-09-2022] RVCDet is accepeted at [ICONIP 2022](https://iconip2022.apnns.org/) <br>
 
