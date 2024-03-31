@@ -1,13 +1,13 @@
-FROM nvidia/cuda:11.3.0-cudnn8-devel-ubuntu20.04
+FROM nvidia/cuda:11.3.1-cudnn8-devel-ubuntu20.04
 ENV DEBIAN_FRONTEND=noninteractive
 
 RUN apt update
 RUN apt install -y python3-pip apt-transport-https ca-certificates gnupg wget git ninja-build libboost-dev build-essential
 RUN apt-get update && apt-get install --no-install-recommends -y \
-    libgl1 \
-    libgomp1 \
-    libusb-1.0-0 \
-    && rm -rf /var/lib/apt/lists/*
+	libgl1 \
+	libgomp1 \
+	libusb-1.0-0 \
+	&& rm -rf /var/lib/apt/lists/*
 
 # Install Open3D from the pypi repositories
 RUN python3 -m pip install --no-cache-dir --upgrade open3d
@@ -17,7 +17,7 @@ RUN pip3 install \
 	-f https://download.pytorch.org/whl/cu113/torch_stable.html
 
 RUN pip install \
-    torch-scatter -f https://data.pyg.org/whl/torch-1.10.0+cu113.html
+	torch-scatter -f https://data.pyg.org/whl/torch-1.10.0+cu113.html
 
 # Install CMake
 RUN wget -O - https://apt.kitware.com/keys/kitware-archive-latest.asc 2>/dev/null | gpg --dearmor - > /etc/apt/trusted.gpg.d/kitware.gpg
@@ -57,9 +57,8 @@ RUN pip3 install opencv-python-headless
 # # Apex installation
 WORKDIR /tmp/unique_for_apex
 RUN git clone https://github.com/NVIDIA/apex.git  \
- 	&& cd apex \
- 	&& git checkout 5633f6 \
-	#&& python3 setup.py install
+	&& cd apex \
+	&& git checkout 5633f6 \
 	&& pip3 install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" ./
 
 
