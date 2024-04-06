@@ -1,5 +1,5 @@
 # Official Pytorch implementation for the paper: "RVCDet: Rethinking Voxelization and Classification for 3D Object Detection" [ICONIP-2022] <br>
-![workflow](https://github.com/YoushaaMurhij/RVCDet/actions/workflows/main.yml/badge.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![workflow](https://github.com/YoushaaMurhij/RVCDet/actions/workflows/main.yml/badge.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  [![DOI](https://zenodo.org/badge/doi/10.1007/978-981-99-1645-0_39.svg)](https://doi.org/10.1007/978-981-99-1645-0_39)
 
 ### RVCDet pipeline:
 <img src="./assets/pipe.png" alt="drawing" width="800"/>
@@ -38,6 +38,28 @@ For training and testing on Waymo, please follow the instructions in [START](/do
 ## Lisence
 RVCDet is released under MIT license (see [LICENSE](LICENSE)). It is developed based on a forked version of [FMFNet](https://github.com/YoushaaMurhij/FMFNet) based-on [CenterPoint](https://github.com/tianweiy/CenterPoint).
 
+## Citation:
+If you find this work helpful, please consider citing:
+```
+@InProceedings{10.1007/978-981-99-1645-0_39,
+    author="Murhij, Youshaa
+    and Golodkov, Alexander
+    and Yudin, Dmitry",
+    editor="Tanveer, Mohammad
+    and Agarwal, Sonali
+    and Ozawa, Seiichi
+    and Ekbal, Asif
+    and Jatowt, Adam",
+    title="Rethinking Voxelization and Classification for 3D Object Detection",
+    booktitle="Neural Information Processing",
+    year="2023",
+    publisher="Springer Nature Singapore",
+    address="Singapore",
+    pages="470--481",
+    isbn="978-981-99-1645-0"
+}
+
+```
 
 ## Contact
 Questions and suggestions are welcome! 
