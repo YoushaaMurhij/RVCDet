@@ -1,5 +1,6 @@
 # Official Pytorch implementation for the paper: "RVCDet: Rethinking Voxelization and Classification for 3D Object Detection" [ICONIP-2022] <br>
-![workflow](https://github.com/YoushaaMurhij/RVCDet/actions/workflows/main.yml/badge.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  [![DOI](https://zenodo.org/badge/doi/10.1007/978-981-99-1645-0_39.svg)](https://doi.org/10.1007/978-981-99-1645-0_39)
+![workflow](https://github.com/YoushaaMurhij/RVCDet/actions/workflows/main.yml/badge.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  [![DOI](https://zenodo.org/badge/doi/10.1007/978-981-99-1645-0_39.svg)](https://doi.org/10.1007/978-981-99-1645-0_39) [![Project-Page](https://img.shields.io/badge/🐳-Project%20Page-blue.svg)](https://youshaamurhij.github.io/RVCDet/)
+[![arXiv](https://img.shields.io/badge/arXiv-2301.04058-b31b1b.svg)](https://arxiv.org/abs/2301.04058/)
 
 ### RVCDet pipeline:
 <img src="./assets/pipe.png" alt="drawing" width="800"/>
